@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="691a86b2-b147-4a7f-853a-85e877e93011" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/badyanov/Learning_Spring_2.git" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -72,11 +80,55 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="421" y="119" key="#Notifications" timestamp="1584648785651">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="421" y="119" key="#Notifications/0.0.1858.1080/1920.0.1920.1040@0.0.1858.1080" timestamp="1584648785651" />
     <state x="609" y="268" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584564520953">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="609" y="268" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1858.1080/1920.0.1920.1040@0.0.1858.1080" timestamp="1584564520953" />
+    <state x="530" y="70" key="CommitChangelistDialog2" timestamp="1584651257312">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="530" y="70" key="CommitChangelistDialog2/0.0.1858.1080/1920.0.1920.1040@0.0.1858.1080" timestamp="1584651257312" />
     <state width="1859" height="295" key="GridCell.Tab.0.bottom" timestamp="1584313052498">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
