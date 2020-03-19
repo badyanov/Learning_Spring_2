@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="691a86b2-b147-4a7f-853a-85e877e93011" name="Default Changelist" comment="" />
+    <list default="true" id="691a86b2-b147-4a7f-853a-85e877e93011" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -34,6 +40,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
     <configuration name="ServingWebContentApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -66,6 +73,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="609" y="268" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584564520953">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="609" y="268" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1858.1080/1920.0.1920.1040@0.0.1858.1080" timestamp="1584564520953" />
     <state width="1859" height="295" key="GridCell.Tab.0.bottom" timestamp="1584313052498">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -98,9 +109,15 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state width="1815" height="364" key="GridCell.Tab.1.right/0.0.1858.1080/1920.0.1920.1040@0.0.1858.1080" timestamp="1584302410341" />
-    <state x="637" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1584305102856">
+    <state x="2366" y="178" key="SettingsEditor" timestamp="1584454431699">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="432" y="185" key="SettingsEditor/0.0.1858.1080/1920.0.1920.1040@0.0.1858.1080" timestamp="1584392438915" />
+    <state x="2366" y="178" key="SettingsEditor/0.0.1858.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584454431699" />
+    <state x="637" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1584647045860">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="637" y="367" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/1920.0.1920.1040@0.0.1858.1080" timestamp="1584305102856" />
+    <state x="637" y="367" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/1920.0.1920.1040@0.0.1858.1080" timestamp="1584647045860" />
+    <state x="2578" y="353" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584564132589" />
   </component>
 </project>
