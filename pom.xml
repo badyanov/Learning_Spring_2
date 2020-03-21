@@ -23,6 +23,13 @@
     </properties>
 
     <dependencies>
+        <!-- проверить что это такое -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
+        </dependency>
+        <!-- -->
+
         <!-- +++ уроки №№ 2, 3 - работа с БД (Postgres) - https://spring.io/guides/gs/accessing-data-mysql/ -->
         <dependency>
             <groupId>org.springframework.boot</groupId>

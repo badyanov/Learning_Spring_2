@@ -2,16 +2,28 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Learning Java Spring - This is the way :)</title>
+    <title>Twitter - }{yummep</title>
 </head>
 <body>
-    <div>Список сообщений</div>
+<h1>Главная</h1>
+<div>
+    <form method="post">
+        <input type="text" name="text" placeholder="Что происходит?"/>
+        <input type="text" name="tag" placeholder="Хэштег"/>
+        <button type="submit">Твитнуть</button>
+    </form>
+</div>
+    <h3>Список сообщений</h3>
+    <form method="post" action="filter">
+        <input type="text" name="filter">
+        <button type="submit">Найти</button>
+    </form>
     {{#messages}}
-        <div>
-            <b>{{id}}</b>
+        <fieldset>
+            <legend>{{id}}</legend>
             <span>{{text}}</span>
-            <i>{{tag}}</i>
-        </div>
+            <i>#{{tag}}</i>
+        </fieldset>
     {{/messages}}
 </body>
 </html>
