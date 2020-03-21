@@ -14,9 +14,7 @@ public class Message {
     private String text;
     private String tag;
 
-    public String getText() {
-        return text;
-    }
+    public String getText() { return text; }
 
     public void setText(String text) {
         this.text = text;
